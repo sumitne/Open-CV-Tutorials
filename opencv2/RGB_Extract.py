@@ -19,3 +19,5 @@ cv2.waitKey(0)
 cv2.imshow('blue',cv2.merge([B,zeros,zeros]))
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#colud've done for all the colors
